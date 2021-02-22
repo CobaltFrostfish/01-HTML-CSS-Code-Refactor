@@ -47,6 +47,7 @@ p {
     font-size: 16px;
 }
 
+/*Changed this from a "class" tag to "main" in order match my changes in the HTML*/
 main {
     height: 800px;
     width: 100%;
@@ -82,23 +83,27 @@ main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Added 3 elements together that had the sam attributes*/
+
+/*Added 3 elements together that had the same attributes*/
 .benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*Added 3 elements together that had the sam attributes*/
+
+/*Added 3 elements together that had the same attributes*/
 .benefit-lead, .benefit-brand, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*Added 3 elements together that had the sam attributes*/
+
+/*Added 3 elements together that had the same attributes*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*Added 3 elements together that had the sam attributes*/
+
+/*Added 3 elements together that had the same attributes*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,16 +112,19 @@ main {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*Added 3 elements together that had the sam attributes*/
+
+/*Added 3 elements together that had the same attributes*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-/*Added 3 elements together that had the sam attributes*/
+
+/*Added 3 elements together that had the same attributes*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing, h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*Changed these tags to footer to match the HTML*/
 footer {
     padding: 30px;
     clear: both;
